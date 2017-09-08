@@ -22,6 +22,7 @@ function showName() {
 }
 </script>
 <input type = "text" id="userName"></input>
+<!-- This is how you write notes for HTML -->
 <button onclick = "showName()">Show my name</button>
 <p id = "one"></p>
 </body>
